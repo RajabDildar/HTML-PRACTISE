@@ -1,0 +1,13 @@
+ <svg xmlns="http://www.w3.org/2000/svg"  height="100" width="100" style="border: 2px solid green" ;>
+        <rect
+          height="80"
+          width="80"
+          rx="10"
+          x="10"
+          y="10"
+          r="40"
+          stroke=" blue"
+          stroke-width="3px"
+          fill="red"
+        ></rect>
+      </svg>
